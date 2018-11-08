@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-06-13T21:56:00-04:00</updated><id>http://localhost:4000/</id><title type="html">Souleiman Benhida</title><subtitle>My personal site</subtitle><entry><title type="html">Ramme Jekyll Theme</title><link href="http://localhost:4000/ramme-theme/" rel="alternate" type="text/html" title="Ramme Jekyll Theme" /><published>2016-03-21T00:00:00-04:00</published><updated>2016-03-21T00:00:00-04:00</updated><id>http://localhost:4000/ramme-theme</id><content type="html" xml:base="http://localhost:4000/ramme-theme/">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-06-25T20:11:36-04:00</updated><id>http://localhost:4000/</id><title type="html">Souleiman Benhida</title><subtitle>My personal site</subtitle><entry><title type="html">Ramme Jekyll Theme</title><link href="http://localhost:4000/ramme-theme/" rel="alternate" type="text/html" title="Ramme Jekyll Theme" /><published>2016-03-21T00:00:00-04:00</published><updated>2016-03-21T00:00:00-04:00</updated><id>http://localhost:4000/ramme-theme</id><content type="html" xml:base="http://localhost:4000/ramme-theme/">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
   &lt;header&gt;
     &lt;h3&gt;&lt;i class=&quot;fa fa-book&quot;&gt;&lt;/i&gt; Contents&lt;/h3&gt;
   &lt;/header&gt;
@@ -32,7 +32,7 @@
 &lt;/section&gt;
 &lt;!-- /#table-of-contents --&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/img/Logo.png&quot; alt=&quot;Logo&quot; class=&quot;selfie&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/img/me200px.png&quot; alt=&quot;Logo&quot; class=&quot;selfie&quot; /&gt;&lt;/p&gt;
 
 &lt;center&gt;&lt;b&gt;Ramme&lt;/b&gt; is a simple jekyll theme.&lt;/center&gt;
 
